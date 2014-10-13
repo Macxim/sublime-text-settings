@@ -4,6 +4,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
+	// https://github.com/jamiewilson/predawn
 	"color_scheme": "Packages/Predawn/predawn.tmTheme",
 	"convert_tabs_paces_on_save": true,
 	"create_window_at_startup": false,
