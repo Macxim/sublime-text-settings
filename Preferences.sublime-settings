@@ -46,7 +46,7 @@
 	"scroll_speed": 5.0,
 	"sidebar_default": true,
 	"tab_completion": true,
-	"tab_size": 3,
+	"tab_size": 2,
 	"theme": "predawn.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
