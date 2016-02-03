@@ -4,8 +4,7 @@
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
-	// https://github.com/jamiewilson/predawn
-	"color_scheme": "Packages/Predawn/predawn.tmTheme",
+	"color_scheme": "Packages/Theme - Afterglow/Afterglow.tmTheme",
 	"convert_tabs_paces_on_save": true,
 	"create_window_at_startup": false,
 	"detect_indentation": true,
@@ -47,7 +46,8 @@
 	"sidebar_default": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "predawn.sublime-theme",
+  // Maintained fork is located at https://github.com/vikjam/afterglow-theme
+	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
