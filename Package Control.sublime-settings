@@ -1,16 +1,22 @@
 {
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
 		"Color Highlighter",
 		"Craft-Twig",
+		"EJS",
 		"Emmet",
 		"ExpressionEngine",
 		"GitGutter",
 		"Handlebars",
 		"JSLint",
 		"LESS",
+		"Markdown Extended",
+		"Markdown Preview",
 		"Package Control",
-		"Predawn",
 		"Sass",
 		"SCSS",
 		"SFTP",
