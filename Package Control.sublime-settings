@@ -5,6 +5,7 @@
 	],
 	"installed_packages":
 	[
+		"All Autocomplete",
 		"Color Highlighter",
 		"Craft-Twig",
 		"EJS",
