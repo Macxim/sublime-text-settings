@@ -46,8 +46,7 @@
 	"sidebar_default": true,
 	"tab_completion": true,
 	"tab_size": 2,
-  // Maintained fork is located at https://github.com/vikjam/afterglow-theme
-	"theme": "Afterglow-orange.sublime-theme",
+	"theme": "Afterglow-orange.sublime-theme",   // Maintained fork is located at https://github.com/vikjam/afterglow-theme
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
