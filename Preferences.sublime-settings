@@ -1,6 +1,24 @@
 {
 	"auto_complete": true,
 	"auto_complete_commit_on_tab": true,
+	"binary_file_patterns":
+	[
+		"dist/*",
+		"node_modules/*",
+		"*.jpg",
+		"*.jpeg",
+		"*.png",
+		"*.gif",
+		"*.ttf",
+		"*.tga",
+		"*.dds",
+		"*.ico",
+		"*.eot",
+		"*.pdf",
+		"*.swf",
+		"*.jar",
+		"*.zip"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 1,
 	"caret_style": "phase",
@@ -46,8 +64,10 @@
 	"sidebar_default": true,
 	"tab_completion": true,
 	"tab_size": 2,
-	"theme": "Afterglow-orange.sublime-theme",   // Maintained fork is located at https://github.com/vikjam/afterglow-theme
+	"theme": "Afterglow-orange.sublime-theme",
 	"translate_tabs_to_spaces": true,
 	"trim_trailing_white_space_on_save": true,
 	"word_wrap": true
 }
+
+// Maintained fork is located at https://github.com/vikjam/afterglow-theme
